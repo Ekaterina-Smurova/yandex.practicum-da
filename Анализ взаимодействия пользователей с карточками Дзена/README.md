@@ -1,6 +1,5 @@
 # Анализ взаимодействия пользователей с карточками Дзена
-[презентация.pdf](https://drive.google.com/file/d/1wIe6hBMLRJv0ZfQkbM7syGNqca1Q64Wy/view?usp=sharing), [дашборд](https://public.tableau.com/views/___16756053702640/sheet0?:language=en-US&:display_count=n&:origin=viz_share_link)  
-
+[презентация.pdf](https://drive.google.com/file/d/1wIe6hBMLRJv0ZfQkbM7syGNqca1Q64Wy/view?usp=sharing), [дашборд](https://public.tableau.com/app/profile/.47756073/viz/___16756053702640/sheet0)
 **Цель:** автоматизировать анализ взаимодействия пользователей с карточками статей Яндекс.Дзен.  
 
 **Задачи:** выгрузить данные, сделать дашборд, подготовить презентацию.
