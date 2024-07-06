@@ -83,4 +83,7 @@ ESRB: без маркировки (собственного производст
 Платформы: 3DS, PS3, PSV, PS4, WiiU  
 Жанры: Role-Playing, Action, Misc, Fighting, Shooter  	
 
-На данный момент самые перспективные платформы:  **PlayStation 4** и **XboxOne**
+На данный момент самые перспективные платформы:  **PlayStation 4** и **XboxOne**  
+
+## Используемые библиотеки  
+`Pandas`, `SciPy`, `NumPy`, `Math`, `Seaborn`, `Matplotlib`, `Missingno`
